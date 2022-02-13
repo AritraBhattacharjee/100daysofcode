@@ -1,6 +1,7 @@
 ## #100daysofcode
 
 #Day1:
+    ```
     Topics Learnt: 
         1. Printing to console window
         2. Comment Lines
@@ -11,7 +12,8 @@
         7. Taking User Input
         8. String Slicing
         9. String Functions
-        
+        ```
+
 #Day 2:
 
 #Day 3:
