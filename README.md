@@ -2,7 +2,7 @@
 
 #Day1:
     
-    Topics Learnt: 
+     Topics Learnt: 
         1. Printing to console window
         2. Comment Lines
         3. Escape Sequence
