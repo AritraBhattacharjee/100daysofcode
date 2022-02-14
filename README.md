@@ -16,4 +16,10 @@
 
 #Day 2:
 
+        Topics Learnt:
+        1. Lists and its Functions.
+        2. Tuples.
+        3. Dictionary and its functions.
+        4. Sets and its functions.
+        
 #Day 3:
