@@ -23,3 +23,7 @@
         4. Sets and its functions.
         
 #Day 3:
+
+        Topic learnt:
+	1. Conditional statements(If-else,if-elif ladder)
+        2. Loops (For loop and while loop)
