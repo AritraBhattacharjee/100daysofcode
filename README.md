@@ -27,3 +27,7 @@
         Topic learnt:
 	1. Conditional statements(If-else,if-elif ladder)
         2. Loops (For loop and while loop)
+#Day 4:
+        
+        Topic Learnt:
+        1. Operators
