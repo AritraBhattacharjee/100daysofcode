@@ -31,3 +31,8 @@
         
         Topic Learnt:
         1. Operators
+
+#Day 5:
+
+        Topic Learnt:
+        1. Functions
