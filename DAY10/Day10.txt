@@ -1,0 +1,5 @@
+Topics Covered :
+1. Virtual Environment
+2. Enumerate Functions
+3. Main Function
+4. Join Function and some minor topics.
